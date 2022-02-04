@@ -43,7 +43,7 @@
   
 - 📈 Github - Stats:
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michifueby)](https://github.com/michifueby/github-readme-stats)
+  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=michifueby)](https://github.com/michifueby)
 
 
 
