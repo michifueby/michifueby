@@ -1,5 +1,5 @@
 <p>
-  <img width="200" height="200" src="michifueby/blob/main/banner-michifueby.svg2" alt=”my banner”>
+  <img width="200" height="200" src="michifueby/blob/main/banner-michifueby.svg2" alt="banner-michifueby">
 </p>
 
 
