@@ -1,11 +1,15 @@
 ### Hi there, I'm Mike 👋
 
 
-- #🔭 I’m currently working with: <br>
+- 🔭 I’m currently working with: <br>
   
-  #Languages: 
+  Languages: <br>
+  <!-- C# Icon -->
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   
-  #Frameworks:<br>![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  
+  Frameworks:<br>
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
  
   
 
