@@ -1,5 +1,5 @@
 <p>
-  <img width="200" height="200" src="https://github.com/[michifueby]/[michifueby]/blob/[main]/banner-michifueby.svg?raw=true" alt="banner-michifueby">
+  <img width="200" height="200" src="https://github.com/michifueby/michifueby/blob/main/banner-michifueby.svg?raw=true" alt="banner-michifueby">
 </p>
 
 ![alt text]()
