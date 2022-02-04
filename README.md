@@ -1,6 +1,9 @@
 <p>
-  <img width="200" height="200" src="michifueby/blob/main/banner-michifueby.svg2" alt="banner-michifueby">
+  <img width="200" height="200" src="https://github.com/[michifueby]/[michifueby]/blob/[main]/banner-michifueby.svg.jpg?raw=true" alt="banner-michifueby">
 </p>
+
+![alt text]()
+
 
 
 ### Hi there, I'm Mike 👋
