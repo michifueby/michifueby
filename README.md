@@ -1,7 +1,8 @@
+<!-- 
 <p>
   <img src="https://github.com/michifueby/michifueby/blob/main/banner-michifueby.svg?raw=true" alt="banner-michifueby">
 </p>
-
+-->
 
 ### Hi there, I'm Mike 👋
 
