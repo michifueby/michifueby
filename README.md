@@ -46,7 +46,7 @@
   
   contact@michaelfueby.com
   
-- 📈 Github - Stats:
+- 📈 GitHub - Stats:
   
   [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=michifueby)](https://github.com/michifueby)
 
