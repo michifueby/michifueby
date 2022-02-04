@@ -1,5 +1,5 @@
-<p align=”center”>
-  <img width=”200" height=”200" src=”https://github.com/michifueby/michifueby/blob/main/banner-michifueby.svg" alt=”my banner”>
+<p>
+  <img width="200" height="200" src="https://github.com/michifueby/michifueby/blob/main/banner-michifueby.svg2" alt=”my banner”>
 </p>
 
 
