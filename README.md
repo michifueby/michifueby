@@ -50,6 +50,10 @@
 - 📈 GitHub - Stats:
   
   [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=michifueby)](https://github.com/michifueby)
+  
+- 👥 Visitors:
+
+  ![](https://api.visitorbadge.io/api/VisitorHit?user=michifueby&repo=github-visitors-badge&countColor=#8F8F8F)
 
 
 
