@@ -53,7 +53,7 @@
   
 - 👥 Visitors:
 
-  ![](https://api.visitorbadge.io/api/VisitorHit?user=michifueby&repo=github-visitors-badge&countColor=#3888EC)
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmichifueby%2Fmichifueby%2F&label=Visitors&countColor=%23555555)
 
 
 
