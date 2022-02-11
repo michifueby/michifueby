@@ -39,10 +39,11 @@
  
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
+<!--
 - 🌱 I’m currently learning:
   
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
+-->
 - 📧 How to reach me
   
   contact@michaelfueby.com
