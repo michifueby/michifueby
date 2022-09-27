@@ -4,7 +4,7 @@
 </p>
 -->
 
-# Hi there, I'm Mike 👋
+# Hi there👋
 
 
 - 🔭 I’m currently working with: <br>
@@ -44,9 +44,6 @@
   
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 -->
-- 📧 How to reach me
-  
-  contact@michaelfueby.com
   
 - 📈 GitHub - Stats:
   
