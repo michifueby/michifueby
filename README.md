@@ -41,10 +41,6 @@
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 -->
   
-- 📈 GitHub - Stats:
-  
-  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=michifueby)](https://github.com/michifueby)
-  
 - 👥 Visitors:
 
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmichifueby%2Fmichifueby%2F&label=Visitors&countColor=%23555555)
